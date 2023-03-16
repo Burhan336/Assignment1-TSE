@@ -10,7 +10,7 @@ public GameObject AIMonster;
 public GameObject Rocks;
 public AudioSource AttackSound;
 public Animator camera_anim;
-public Event8 obj;
+
 
 
 void OnTriggerEnter (Collider triggerInfo) 
