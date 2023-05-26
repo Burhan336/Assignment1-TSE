@@ -55,12 +55,10 @@ public class AlAttack : MonoBehaviour
      * Multi-line comment
      * You can add detailed explanations or describe the functionality of the code here.
      * ...
-     * ...
+     * ... This is a multi line comment
      */
 
-     #!/bin/bash
-
-git log --pretty=format:'"%h","%an","%ad","%s"' --date=iso > changelog.csv
+     
 
 }
 
