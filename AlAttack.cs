@@ -55,7 +55,7 @@ public class AlAttack : MonoBehaviour
      * Multi-line comment
      * You can add detailed explanations or describe the functionality of the code here.
      * ...
-     * ... This is a multi line comment
+     * ... This is a multi line comment which can be edited
      */
 
      
