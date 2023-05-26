@@ -57,6 +57,11 @@ public class AlAttack : MonoBehaviour
      * ...
      * ...
      */
+
+     #!/bin/bash
+
+git log --pretty=format:'"%h","%an","%ad","%s"' --date=iso > changelog.csv
+
 }
 
 
